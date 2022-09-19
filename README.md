@@ -1,0 +1,5 @@
+- 👋 ola, sou Fabiel Carvalho
+- 👀 estou interressado em programação
+- 🌱 estou aprendendo paginas web
+- 💞️ estou querendo colaborar paginas web
+- 📫 Email: fabiel.carvalho@escola.pr.gov.br 
